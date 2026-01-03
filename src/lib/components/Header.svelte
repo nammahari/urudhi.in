@@ -14,7 +14,7 @@
 
 		<div class="flex items-center gap-3 md:gap-6">
 			<a
-				href="/events"
+				href="https://tamilnadu.tech"
 				class="text-sm text-gray-700 transition-colors hover:text-gray-900 md:text-base"
 			>
 				Explore Events
